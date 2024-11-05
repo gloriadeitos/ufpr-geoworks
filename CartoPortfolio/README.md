@@ -6,8 +6,6 @@
   <img src="https://github.com/gloriadeitos/UFPR-EngCartograficaAgrimensura/blob/main/img/GloriaDeitos.png" alt="GloriaDeitos-logo" height="100">
 </p>
 
-
-
 # CartoPortfolio 🗺️
 
 Bem-vindo(a) ao **CartoPortfolio**! Este repositório reúne cartas, mapas e projetos desenvolvidos em Engenharia Cartográfica e de Agrimensura, apresentando um portfólio diversificado de produtos e ferramentas de cartografia.
